@@ -1,5 +1,5 @@
 # Project1
-The Employee Data System is designed to manage employee data using Python. This system is structured to offer features for adding, editing, viewing, and deleting employee data.
+The Employee Data Program is designed to manage employee data using Python. This program is structured to offer features for adding, editing, viewing, and deleting employee data.
 
 ## Employee Database:
 ID, name, position, department, salary, date of joining, employment status, email, and phone number.
